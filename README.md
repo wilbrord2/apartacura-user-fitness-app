@@ -48,10 +48,10 @@ To use this locally.
    ```
    npm install
    ```
-3. You have to set env.local varaible 
+3. You have to set up your .env.local variables  
 
     ```
-    GOOGLE_CLIENT_ID = #Add your google client id (https://console.developers.google.com/apis/credentials)
+    GOOGLE_CLIENT_ID = #Add your google client id from (https://console.developers.google.com/apis/credentials)
 
     GOOGLE_CLIENT_SECRET = #Add your google client secrete from (https://console.developers.google.com/apis/credentials)
 
